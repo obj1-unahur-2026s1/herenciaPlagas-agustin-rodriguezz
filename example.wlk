@@ -4,6 +4,7 @@ class Elemento{
 
 
 
+
 class Hogar inherits Elemento{
   var nivelDeMugre
   var confort
